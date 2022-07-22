@@ -48,3 +48,9 @@ section{
     background-image: url(side.png);
     background-repeat: no-repeat;
 }
+.buttom{
+    display: flex;
+}
+.allfriend img{
+    width: 50%;
+}

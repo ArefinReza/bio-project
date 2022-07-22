@@ -37,3 +37,14 @@ section{
 .width img{
     width: 100%;
 }
+.linked{
+    margin-top: 10px;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+}
+.top-banner{
+    background-image: url(side.png);
+    background-repeat: no-repeat;
+}

@@ -49,8 +49,6 @@ section{
     background-repeat: no-repeat;
 }
 .buttom{
-    display: flex;
-}
-.allfriend img{
-    width: 50%;
+    background-image: url(./side\ copy.png);
+    background-repeat: no-repeat;
 }

@@ -25,7 +25,8 @@ h3{
 .student{
     text-align: justify;
     font-family: 'Inter', sans-serif;
-    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
 
 }
 .width{
@@ -62,10 +63,19 @@ h3{
     width: 40%;
     margin-left: 50px;
     margin-right: 70px;
+    padding-left: 10px;
+    border-left: 7px solid darkred;
+    
 }
 .exp{
     font-size: 35px;
 }
 .hhhcolor{
     color: darkorange;
+}
+.web{
+    border-left: 7px solid rgb(234, 57, 57);
+}
+footer{
+    text-align: center;
 }
